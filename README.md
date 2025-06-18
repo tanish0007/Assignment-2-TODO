@@ -1,1 +1,1 @@
-# ToDo Application <span style="float:right; font-size:small">[Live Link](https://img.shields.io/badge/Live_Link-8A2BE2)</span>
+# ToDo Application ![Live Link](https://img.shields.io/badge/Live_Link-8A2BE2)
