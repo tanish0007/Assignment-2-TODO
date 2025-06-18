@@ -1,1 +1,1 @@
-# ToDo Application <a href="https://tanish0007.github.io/Assignment-2-TODO/" style="float:right; font-size:small">[Live Link](https://img.shields.io/badge/Live_Link-8A2BE2)</a>
+# ToDo Application <span style="float:right; font-size:small">[Live Link](https://img.shields.io/badge/Live_Link-8A2BE2)</span>
